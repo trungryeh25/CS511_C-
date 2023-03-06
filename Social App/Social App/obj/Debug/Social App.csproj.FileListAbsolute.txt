@@ -1,0 +1,54 @@
+D:\code thue winform\Phat Facebook app\Social App\bin\Debug\Social App.exe.config
+D:\code thue winform\Phat Facebook app\Social App\bin\Debug\Social App.exe
+D:\code thue winform\Phat Facebook app\Social App\bin\Debug\Social App.pdb
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social App.csprojAssemblyReference.cache
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmLogin.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.Properties.Resources.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social App.csproj.GenerateResource.cache
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social App.csproj.CoreCompileInputs.cache
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social App.exe
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social App.pdb
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmRegister.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmHome.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmInfo.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmPost.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmMyPost.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.EditPost.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmChat.resources
+D:\code thue winform\Phat Facebook app\Social App\obj\Debug\Social_App.frmComment.resources
+D:\winform 1\Phat Facebook app\Social App\bin\Debug\Social App.exe.config
+D:\winform 1\Phat Facebook app\Social App\bin\Debug\Social App.exe
+D:\winform 1\Phat Facebook app\Social App\bin\Debug\Social App.pdb
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social App.csprojAssemblyReference.cache
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.EditPost.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmChat.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmComment.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmHome.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmInfo.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmLogin.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmMyPost.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmPost.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.frmRegister.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social_App.Properties.Resources.resources
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social App.csproj.GenerateResource.cache
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social App.csproj.CoreCompileInputs.cache
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social App.exe
+D:\winform 1\Phat Facebook app\Social App\obj\Debug\Social App.pdb
+D:\Project winform\social-app\Social App\bin\Debug\Social App.exe.config
+D:\Project winform\social-app\Social App\bin\Debug\Social App.exe
+D:\Project winform\social-app\Social App\bin\Debug\Social App.pdb
+D:\Project winform\social-app\Social App\obj\Debug\Social App.csprojAssemblyReference.cache
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.EditPost.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmChat.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmComment.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmHome.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmInfo.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmLogin.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmMyPost.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmPost.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.frmRegister.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social_App.Properties.Resources.resources
+D:\Project winform\social-app\Social App\obj\Debug\Social App.csproj.GenerateResource.cache
+D:\Project winform\social-app\Social App\obj\Debug\Social App.csproj.CoreCompileInputs.cache
+D:\Project winform\social-app\Social App\obj\Debug\Social App.exe
+D:\Project winform\social-app\Social App\obj\Debug\Social App.pdb
